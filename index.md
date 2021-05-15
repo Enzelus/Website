@@ -18,7 +18,7 @@
     width="300px">
 <style> .enz {border: none;background-color:#fff0;}</style>
      <style>
-.square {width: 350px;height: 1px;background-color: #fff0;margin: auto;position: relative;}
+.square {width: 350px;height: 1px;margin: auto;position: relative;}
     </style>
 <div class="square">
    
