@@ -14,7 +14,7 @@
     </style>
 </head>
 <head class="square">
-    <img class="enz" src="https://i.imgur.com/TWcpjTw.png" alt=enzelus
+    <img class="enz" src="https://cdn.discordapp.com/attachments/665422617762725940/843132622679048212/m96S3RKGTFSUpBdpebKgchXaoaLHFdriXp-YjEyoncdx6nHYSq0vUQS2fmo_toS0nC8VRGh3BASLK1imfUwoWBISPZ7K6VuTi_16.png" alt=enzelus
     width="300px">
 <style> .enz {border: none;padding:0px;}</style>
 <div class="square">
