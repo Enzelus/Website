@@ -13,15 +13,13 @@
     </style>
 </head>
 <head class="square">
-    <img class="enz" src="https://cdn.discordapp.com/attachments/665422617762725940/843132622679048212/m96S3RKGTFSUpBdpebKgchXaoaLHFdriXp-YjEyoncdx6nHYSq0vUQS2fmo_toS0nC8VRGh3BASLK1imfUwoWBISPZ7K6VuTi_16.png" alt=enzelus
+    <img class="enz" src="https://cdn.discordapp.com/attachments/665422617762725940/843132622679048212/m96S3RKGTFSUpBdpebKgchXaoaLHFdriXp-YjEyoncdx6nHYSq0vUQS2fmo_toS0nC8VRGh3BASLK1imfUwoWBISPZ7K6VuTi_16.png"
     width="300px">
-<style> .enz {border: none;background-color:transparent;}</style>
-     <style>
-.square {width: 350px;height: 1px; background-color:white;margin auto;position: relative;}
+<style> .enz {border: none; background-color:transparent};</style>
+<div class="square">
+    <style>
+.square {width: 350px;height: 1px;background-color: white;margin: auto;position: relative;}
     </style>
-    </head>
-<div>
-   
     <span style="display:block; height: 100%;"></span>
 </div>
 
