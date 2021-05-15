@@ -18,9 +18,7 @@
     width="300px">
 <style> .enz {border: none;}</style>
 <div class="square">
-    <style>
-.square {width: 350px;height: 1px;background-color: white;margin: auto;position: relative;}
-    </style>
+   
     <span style="display:block; height: 100%;"></span>
 </div>
 </head>
