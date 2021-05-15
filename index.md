@@ -16,7 +16,7 @@
 <head class="square">
     <img class="enz" src="https://cdn.discordapp.com/attachments/665422617762725940/843132622679048212/m96S3RKGTFSUpBdpebKgchXaoaLHFdriXp-YjEyoncdx6nHYSq0vUQS2fmo_toS0nC8VRGh3BASLK1imfUwoWBISPZ7K6VuTi_16.png" alt=enzelus
     width="300px">
-<style> .enz {border: none;background-color:white;}</style>
+<style> .enz {border: none;}</style>
 <div class="square">
     <style>
 .square {width: 350px;height: 1px;background-color: white;margin: auto;position: relative;}
@@ -29,9 +29,7 @@
 <p style="font-family: 'Courier New', Courier, monospace;color: white;"> This is my test website. I'm using it to practice the HTML
     coding language, and I'm currently very incompetent at using it.</p>
 <h2 style="font-family: 'Courier New', Courier, monospace;color: white;"> What do you plan to do with this?</h2>
-<p style="font-family: 'Courier New', Courier, monospace;color: white;">I plan to use this website as my own personal journal, where I 
-    express my emotions, as well as express myself artistically through
-    web development.
+<p style="font-family: 'Courier New', Courier, monospace;color: white;">I plan to use this website as my own personal private blog thing.
 </p>
    </body>
   <span style="display: block;height: 50px;"></span>
