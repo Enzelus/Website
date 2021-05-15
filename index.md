@@ -17,6 +17,9 @@
     <img class="enz" src="https://cdn.discordapp.com/attachments/665422617762725940/843132622679048212/m96S3RKGTFSUpBdpebKgchXaoaLHFdriXp-YjEyoncdx6nHYSq0vUQS2fmo_toS0nC8VRGh3BASLK1imfUwoWBISPZ7K6VuTi_16.png" alt=enzelus
     width="300px">
 <style> .enz {border: none;}</style>
+     <style>
+.square {width: 350px;height: 1px;background-color: #fff0;margin: auto;position: relative;}
+    </style>
 <div class="square">
    
     <span style="display:block; height: 100%;"></span>
