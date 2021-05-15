@@ -15,15 +15,16 @@
 <head class="square">
     <img class="enz" src="https://cdn.discordapp.com/attachments/665422617762725940/843132622679048212/m96S3RKGTFSUpBdpebKgchXaoaLHFdriXp-YjEyoncdx6nHYSq0vUQS2fmo_toS0nC8VRGh3BASLK1imfUwoWBISPZ7K6VuTi_16.png" alt=enzelus
     width="300px">
-<style> .enz {border: none;background-color:#fff0;}</style>
+<style> .enz {border: none;background-color:transparent;}</style>
      <style>
 .square {width: 350px;height: 1px; background-color:white;margin auto;position: relative;}
     </style>
-<div class="square">
+    </head>
+<div>
    
     <span style="display:block; height: 100%;"></span>
 </div>
-</head>
+
    <body>
    <h2 style="font-family: 'Courier New', Courier, monospace; color: white;">What is this?</h2>
 <p style="font-family: 'Courier New', Courier, monospace;color: white;"> This is my test website. I'm using it to practice the HTML
