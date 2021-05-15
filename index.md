@@ -41,7 +41,7 @@
   <span style="display: block;height: 50px;"></span>
 </body>
 <a href="#"</a><img src="https://images.pexels.com/photos/3289156/pexels-photo-3289156.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="have a trip with me">
-   <p>Join Me</p>
+   <p style="font-family: 'Courier New', Courier, monospace; color: white;">Join Me</p>
     
 <div>
 
