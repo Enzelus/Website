@@ -19,7 +19,7 @@
 <style> .enz {border: none;padding:0px;}</style>
 <div class="square">
     <style>
-
+.square {width: 350px;height: 1px;background-color: white;margin: auto;position: relative;}
     </style>
     <span style="display:block; height: 100%;"></span>
 </div>
