@@ -16,7 +16,7 @@
 <head class="square">
     <img class="enz" src="https://i.imgur.com/TWcpjTw.png"
     width="300px">
-<style> .enz {border: none; };</style>
+<style> .enz {border: none;};</style>
 <div class="square">
     <style>
 .square {width: 350px;height: 1px;background-color: white;margin: auto;position: relative;}
@@ -30,8 +30,7 @@
 </head>
     <h2 style="font-family: 'Courier New', Courier, monospace; color: white;">What is this?</h2>
 <p style="font-family: 'Courier New', Courier, monospace;color: white;"> This is my test website. I'm using it to practice the HTML
-    coding language, and I'm currently very incompetent at using it.
-</p>
+    coding language, and I'm currently very incompetent at using it.</p>
 <h2 style="font-family: 'Courier New', Courier, monospace;color: white;">What do you plan to do with this?</h2>
 <p style="font-family: 'Courier New', Courier, monospace;color: white;">I plan to use this website as my own personal journal, where I 
     express my emotions, as well as express myself artistically through
