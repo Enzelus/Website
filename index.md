@@ -14,7 +14,7 @@
     </style>
 </head>
 <head class="square">
-    <img class="enz" src="https://i.imgur.com/mNlBXDI.png"
+    <img class="enz" src="https://imgur.com/a/Z9LtavX"
     width="300px">
 <style> .enz {border: none;};</style>
 <div class="square">
