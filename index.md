@@ -23,12 +23,9 @@
     </style>
     <span style="display:block; height: 100%;"></span>
 </div>
-
-
-
-
 </head>
-    <h2 style="font-family: 'Courier New', Courier, monospace; color: white;">What is this?</h2>
+   <body>
+   <h2 style="font-family: 'Courier New', Courier, monospace; color: white;">What is this?</h2>
 <p style="font-family: 'Courier New', Courier, monospace;color: white;"> This is my test website. I'm using it to practice the HTML
     coding language, and I'm currently very incompetent at using it.</p>
 <h2 style="font-family: 'Courier New', Courier, monospace;color: white;"> What do you plan to do with this?</h2>
@@ -36,6 +33,7 @@
     express my emotions, as well as express myself artistically through
     web development.
 </p>
+   </body>
   <span style="display: block;height: 50px;"></span>
 
 <a href="#"</a><img src="https://images.pexels.com/photos/3289156/pexels-photo-3289156.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="have a trip with me">
