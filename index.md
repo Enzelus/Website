@@ -10,6 +10,7 @@
              background-color: black;}
         img {display:block;margin-left:auto;margin-right: auto;border: 10px solid #fff;}
         a {background-color:black;font-family: 'Courier New', Courier, monospace;color: white;}
+        head {background-color:transparent}
       
 
     </style>
