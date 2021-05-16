@@ -19,7 +19,7 @@
     <img class="enz" src="mico.png"
     width="300px">
 <style> 
-    .enz { background-color: transparent!important; }
+    .enz {border:none; background-color: transparent!important; }
     
     </style>    
 </head>
