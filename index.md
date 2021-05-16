@@ -14,7 +14,7 @@
 </head>
 <head class="square">
     <img class="enz" src="MAIN PAGE.html.png"
-    >
+    width="300px">
 <style> .enz {border: none; background-color:transparent};</style>
 <div class="square">
     <style>
