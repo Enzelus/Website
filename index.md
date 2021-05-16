@@ -33,7 +33,7 @@
    </body>
   <span style="display: block;height: 50px;"></span>
 
-<a href="#"><img src="https://images.pexels.com/photos/3289156/pexels-photo-3289156.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="have a trip with me"></a>
+<a href="#"><img src="https://liquipedia.net/commons/images/6/63/WIP-logo.png" alt="have a trip with me"></a>
    <p style="font-family: 'Courier New', Courier, monospace; color: white;">Join Me</p>
     
 <div>
