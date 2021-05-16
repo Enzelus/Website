@@ -13,7 +13,7 @@
     </style>
 </head>
 <head class="square">
-    <img class="enz" src="MAIN PAGE.html.png"
+    <img class="enz" src="mico.png"
     width="300px">
 <style> .enz {border: none; background-color:transparent};</style>
 <div class="square">
