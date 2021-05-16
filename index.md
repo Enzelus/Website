@@ -33,7 +33,7 @@
    </body>
   <span style="display: block;height: 50px;"></span>
 
-<a href="#"><img src="https://image.pngaaa.com/497/242497-middle.png" alt="have a trip with me"></a>
+<a href="#"><img src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png" alt="have a trip with me"></a>
    <p style="font-family: 'Courier New', Courier, monospace; color: white;">Join Me</p>
     
 <div>
