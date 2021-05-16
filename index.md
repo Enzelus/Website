@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <head>
     <style>
         h1 {text-align: center;} 
@@ -15,10 +15,11 @@
 
     </style>
 </head>
-<head class="square">
+<head>
     <img class="enz" src="mico.png"
     width="300px">
-<style> .enz {border: none;background-color:transparent}</style>
+<style> .enz {border: none;}</style>    
+</head>
 <div class="square">
     <style>
 .square {width: 350px;height: 1px;background-color: white;margin: auto;position: relative;}
@@ -27,9 +28,6 @@
 </div>
 
 
-
-
-</head>
     <h2 style="font-family: 'Courier New', Courier, monospace; color: white;">What is this?</h2>
 <p style="font-family: 'Courier New', Courier, monospace;color: white;"> This is my test website. I'm using it to practice the HTML
     coding language, and I'm currently very incompetent at using it.
