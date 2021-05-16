@@ -15,7 +15,8 @@
 <head class="square">
     <img class="enz" src="mico.png"
     width="300px">
-<style> .enz {border: none; background-color:transparent};</style>
+<style> .enz {border: none; background-color:transparent};
+    . markdown-body img {background-color:transparent;}</style>
 <div class="square">
     <style>
 .square {width: 350px;height: 1px;background-color: white;margin: auto;position: relative;}
@@ -42,7 +43,7 @@
 
 <span style="display: block;height: 50px;"></span>
 
-<footer class=line>
+<footer class=line>f 
    <style>
        .line {width: 1000px;height: 1px;background-color: white;margin: auto;}
        ul {text-align: center;padding: 0%;}
