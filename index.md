@@ -18,7 +18,10 @@
 <head>
     <img class="enz" src="mico.png"
     width="300px">
-<style> .enz {border: none;background-color:transparent}</style>    
+<style> 
+    .enz {border: none;background-color:#fff0}
+    
+    </style>    
 </head>
 <div class="square">
     <style>
