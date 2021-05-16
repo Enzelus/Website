@@ -5,7 +5,7 @@
         h2 {text-align: center;}
         h3 {text-align: center;}
         body {background-image: url(https://i.pinimg.com/originals/30/c0/ee/30c0ee23697937b84ccd59b56cacb814.jpg);
-            background-repeat:round;background-attachment:fixed; background-position: center; background-color:transparent;}
+            background-repeat:round;background-attachment:fixed; background-position: center; background-color:black;}
         img {display:block;margin-left:auto;margin-right: auto;border: 10px solid #fff;}
         a {background-color:black;font-family: 'Courier New', Courier, monospace;color: white;}
       
