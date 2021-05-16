@@ -50,7 +50,6 @@ li {display: inline;}
 <p style="font-family: 'Courier New', Courier, monospace;color: white;">I plan to use this website as my own personal blog kinda thing.
 </p>
   <span style="display: block;height: 50px;"></span>
-</body>
 
 <a href="https://open.spotify.com/playlist/1xHUUzm8gVlpfJsAaavQ0L?si=8db8fe07a1314a39" target="_blank"</a><img style="border: none;background-color:transparent!important" src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png" alt="have a trip with me" width="30px">
    <p>Join Me</p>
