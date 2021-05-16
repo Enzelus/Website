@@ -6,7 +6,7 @@
         h3 {text-align: center;}
         body {background-image: url(https://i.pinimg.com/originals/30/c0/ee/30c0ee23697937b84ccd59b56cacb814.jpg);
             background-repeat:round;background-attachment:fixed; background-position: center; }
-        img {;margin-left:auto;margin-right: auto;border: 10px solid #fff;}
+        img {display:block;margin-left:auto;margin-right: auto;border: 10px solid #fff;}
         a {background-color:black;font-family: 'Courier New', Courier, monospace;color: white;}
       
 
@@ -33,7 +33,7 @@
    </body>
   <span style="display: block;height: 50px;"></span>
 
-<a href="#"><img src="https://liquipedia.net/commons/images/6/63/WIP-logo.png" alt="have a trip with me"></a>
+<a href="#"><img src="https://image.pngaaa.com/497/242497-middle.png" alt="have a trip with me"></a>
    <p style="font-family: 'Courier New', Courier, monospace; color: white;">Join Me</p>
     
 <div>
