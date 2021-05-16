@@ -31,7 +31,7 @@
 </div>
 
 
-    <h2 style="font-family: 'Courier New', Courier, monospace; color: white;">What is this?</h2>
+   <h2 style="font-family: 'Courier New', Courier, monospace; color: white;">What is this?</h2>
 <p style="font-family: 'Courier New', Courier, monospace;color: white;"> This is my test website. I'm using it to practice the HTML
     coding language, and I'm currently very incompetent at using it.
 </p>
