@@ -23,7 +23,7 @@ ul{text-align:left;list-style: inside;  }
 li {display: inline;}
 .NAVBAR {overflow: hidden;background-color:#000000}
 .NAVBAR a{float: left;color: #ffffff;text-align: center;padding: 14px 16px;text-decoration: none;border-radius: 10px;}
-.NAVBAR a:hover {background-color:#00adb5;}
+.NAVBAR a:hover {background-color:#ce1212;opacity:50%;}
 
 
 </style>
