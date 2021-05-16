@@ -7,9 +7,7 @@
         body {background-image: url(https://i.pinimg.com/originals/30/c0/ee/30c0ee23697937b84ccd59b56cacb814.jpg);
             background-repeat:round;background-attachment:fixed; background-position: center; }
         img {display:block;margin-left:auto;margin-right: auto;border: 10px solid #fff;}
-        a {background-color:black;font-family: 'Courier New', Courier, monospace;color: white;}
-      
-
+        a {background-color:black;font-family: 'Courier New', Courier, monospace;color: white;
     </style>
 </head>
 <head class="square">
@@ -57,3 +55,4 @@
   </ul>
     <span style="display: block;height: 50px;"></span>
 </footer>
+</html>
