@@ -15,8 +15,7 @@
 <head class="square">
     <img class="enz" src="mico.png"
     width="300px">
-<style> .enz {border: none; background-color:transparent};
-    . markdown-body img {background-color:transparent;}</style>
+<style> .enz {border: none; background-color:transparent};</style>
 <div class="square">
     <style>
 .square {width: 350px;height: 1px;background-color: white;margin: auto;position: relative;}
