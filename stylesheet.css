@@ -40,8 +40,8 @@ li {
 #navbar {
     list-style-type: none;
     margin: 0;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     overflow: hidden;
     background-color: rgb(0, 0, 0);
   }
