@@ -1,6 +1,5 @@
 html {
     scroll-behavior:smooth;
-    zoom: .75;
 
 }
 
@@ -203,7 +202,7 @@ position:relative;
 
 #foundercontainer {
     padding: 40px;
-    height: 600px;
+    height: 35vh;
     background: url(pexels-william-fortunato-6140403.jpeg);
     background-position:top;
     background-position-y: -190px;
@@ -276,7 +275,7 @@ position:relative;
 }
 
 #portfolio h1 {
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 #portfolio p {
