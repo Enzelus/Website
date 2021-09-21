@@ -211,6 +211,10 @@ position:relative;
 
 #arrowlink:hover {
     opacity: 1;
+    animation: arrow-anim;
+    animation-duration: 500ms;
+    animation-fill-mode: forwards;
+
 }
 
 #arrowlink {
@@ -243,13 +247,6 @@ position:relative;
 
 }
 
-#arrow:hover {
-    
-    animation: arrow-anim;
-    animation-duration: 500ms;
-    animation-fill-mode: forwards;
-
-}
 
 
 
