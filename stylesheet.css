@@ -1,5 +1,6 @@
 html {
     scroll-behavior:smooth;
+
 }
 
 h1 {
@@ -102,12 +103,19 @@ display: block;
 
 }
 
+
 #founderBox {
     margin: auto;
     width: 500px;
     height: 50px;
 }
 
+#whoweare {
+    width: 300px;
+    display: block;
+    margin: auto;
+
+}
 
 
 #vid {
@@ -117,6 +125,7 @@ display: block;
     margin: auto;
     display: block;
 }
+
 
 
 #video {
@@ -168,20 +177,8 @@ position:relative;
 
 }
 
-#profile {
-    margin: 30px;
-    height: 150px;
-    width: 150px;
-    border: 15px solid #ffffff ;
-    border-radius: 50%;
-    display: inline-block;
 
-}
 
-#profilediv {
-    margin: auto;
-    display: inline-block;
-}
 
 #parentprofdiv {
     text-align: center;
@@ -200,12 +197,17 @@ position:relative;
 }
 
 #busD {
-    margin-top: 50px;
+    margin-top: 0px;
 }
 
 #foundercontainer {
     padding: 40px;
-
+    height: 600px;
+    background: url(mediafiles/pexels-william-fortunato-6140403.jpeg);
+    background-position:top;
+    background-position-y: -190px;
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
 
@@ -219,9 +221,8 @@ position:relative;
 
 #arrowlink {
     margin: auto;
-    margin-top: 50px;
-    margin: bottom 50px; ;
-    width: 20px;
+    margin-top: 30px;
+    width: 1000px;
     display: block;
     opacity: 0.5;
     transition-property: opacity;
@@ -241,8 +242,8 @@ position:relative;
 
 #arrow {
     width: 50px;
- 
-    display: inline;
+    margin: auto;
+    display: block;
  
 
 }
@@ -268,14 +269,27 @@ position:relative;
 }
 
 #portfolio {
-    width: 100%;
-    height: 500px;
+    padding: 50px;
+
+    
+}
+
+#portfolio h1 {
+    margin-bottom: 100px;
+}
+
+#portfolio p {
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 100px;
+    margin-top: 0px;
 }
 
 #contactme {
 
     background-color: rgb(0, 0, 0);
     padding: 40px;
+    height: 1200px;
 }
 
 #circ {
